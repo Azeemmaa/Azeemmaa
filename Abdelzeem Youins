@@ -1,0 +1,8 @@
+صدى "# Abdelzeemyounes" >> README.md
+git init
+git أضف README.md
+git الالتزام -m "الالتزام الأول"
+فرع git -M الرئيسي
+git عن بعد إضافة الأصل https://github.com/Abdelzeem/Younes.git
+git push -u الأصل الرئيسي
+tap abdelzeem.carrd.co
